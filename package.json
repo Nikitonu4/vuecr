@@ -1,0 +1,27 @@
+{
+  "name": "vuecr",
+  "version": "1.0.0",
+  "description": "Vue project creation tool",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikitonu4/vuecr.git"
+  },
+  "keywords": [
+    "vue",
+    "cli tool",
+    "vuetify",
+    "webpack5",
+    "vuex",
+    "vue-router"
+  ],
+  "author": "Nikita Batogov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nikitonu4/vuecr/issues"
+  },
+  "homepage": "https://github.com/Nikitonu4/vuecr#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
